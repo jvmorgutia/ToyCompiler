@@ -1,0 +1,66 @@
+boolean 
+break
+class 
+double 
+else 
+extends 
+false 
+for
+if 
+implements
+int
+interface 
+newarray 
+println 
+readln
+return 
+string 
+true 
+void 
+while
+
++ 
+- 
+* 
+/ 
+% 
+<
+ <=
+ >
+ >=
+ ==
+ != 
+ &&
+ ||
+ !
+ =
+ ;
+ ,
+ .
+ (
+ )
+ [
+ ]
+ {
+ }
+ 
+
+"test"
+thisisanID
+int_isanID
+hello!!!
+
+12.E-2
+
+
+12.0e-3
+
+2342.34544
+387563
+0x365763685
+0X84675383
+
+"stringconstant"
+boolean true;
+boolean false;
+
